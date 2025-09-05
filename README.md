@@ -20,7 +20,8 @@
 ---
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![C](https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)  
 ![Generative AI](https://img.shields.io/badge/GenerativeAI-FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
