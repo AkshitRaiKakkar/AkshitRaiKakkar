@@ -20,11 +20,15 @@
 ---
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![C](https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)  
-![Generative AI](https://img.shields.io/badge/GenerativeAI-FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white)  
+
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-4C9F70.svg?style=for-the-badge&logo=seaborn&logoColor=white)  
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Generative AI](https://img.shields.io/badge/GenerativeAI-FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
