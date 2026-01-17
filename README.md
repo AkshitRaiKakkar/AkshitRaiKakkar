@@ -13,6 +13,7 @@
 ---
 
 # 🏆 Achievements:
+- 🏆 Winner @ *TechFrontier 2025 (IIIT-D)*
 - ⚡ Finalist @ *FictiCorp Hackathon IIT Delhi*  
 - 🌍 Finalist @ *Moonshot Pirates International Hackathon finalist*  
 - 🚀 Participant @ *IIT Roorkee E-Summit’25 Guest*
@@ -21,6 +22,9 @@
 
 # 💻 Tech Stack:
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
