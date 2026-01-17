@@ -1,9 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m *Akshit Rai Kakkar*  
 🎓 B.Tech CSE Student @ *JMIT Radaur*  
-💻 Passionate about *AI Engineering & Hackathons*  
-📈 Currently exploring *AI Development* 
-
+💻 Passionate about *Backend Engineering*  
 ---
 
 <div align="center">
