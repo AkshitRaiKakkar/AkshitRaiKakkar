@@ -64,6 +64,6 @@
 ---
 
 # ⚡ Fun Fact:
-💪 Balancing *Physicality + Sprituality + Mentality + Carrier* in one life routine 🚀  
+ There is some magic yet to be Discoverd,Hire him!! 🚀  
 
 ---
