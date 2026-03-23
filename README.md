@@ -16,7 +16,7 @@
 - ⚡ Finalist @ *FictiCorp Hackathon IIT Delhi*  
 - 🌍 Finalist @ *Moonshot Pirates International Hackathon finalist*  
 - 🚀 Participant @ *IIT Roorkee E-Summit’25 Guest*
-- 🦁 CA @ *IIT MANDHI*
+- 🦁 CA @ *IIT MANDI*
 - 🦁 Lead multiple hackathon teams!
 ---
 
