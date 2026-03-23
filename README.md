@@ -12,9 +12,11 @@
 
 # 🏆 Achievements:
 - 🏆 Winner @ *TechFrontier 2025 (IIIT-D)*
+- 🏆 Winner @ *MLN Mohotsav 2026*
 - ⚡ Finalist @ *FictiCorp Hackathon IIT Delhi*  
 - 🌍 Finalist @ *Moonshot Pirates International Hackathon finalist*  
 - 🚀 Participant @ *IIT Roorkee E-Summit’25 Guest*
+- 🦁 CA @ *IIT MANDHI*
 - 🦁 Lead multiple hackathon teams!
 ---
 
