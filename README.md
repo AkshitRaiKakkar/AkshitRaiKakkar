@@ -2,7 +2,7 @@
 👋 Hi, I’m *Akshit Rai Kakkar*  
 🎓 B.Tech CSE Student @ *JMIT Radaur*  
 💻 Passionate about *Backend Engineering*  
-🌐 Check out my website: [My Portfolio](https://portfolio-plum-two-9lfhenqqqq.vercel.app/)  
+🌐 Check out my website: [My Portfolio](https://portfolio-plum-two-9lfhenqqqq.vercel.app)  
 
 ---
 
